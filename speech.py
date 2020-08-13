@@ -10,6 +10,10 @@ engine.setProperty('rate',newVoiceRate)
 engine.say("I am a High-functioning Sociopath") 
 
 engine.runAndWait() 
+
+#notification #notification #notification #notification #notification
+#notification #notification #notification #notification #notification
+
 print("SEE NOTIFICATION")
 
 from plyer import notification
